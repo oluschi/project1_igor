@@ -1,0 +1,72 @@
+body {
+	background-color:#FF88C7;
+	margin-left:60px;
+}
+
+img.igor {
+	width: 500px;
+	height: 600px;
+    align-items: center;
+    margin-top:-150px;
+    margin-left: 450px;
+    top:50px;
+}
+
+
+
+img.baby{
+	width:400px;
+	margin-left:-900px;
+	margin-top: -50px;
+	top:300px;
+	margin-right:300px;
+
+}
+
+
+h1{
+	font:;
+	text-align: center;
+
+}
+
+h4{
+	width:700px;
+	font:sans-serif;
+	font-size:23pt;
+	margin-left:400px;
+	margin-top:-100px;
+
+}
+
+h5{
+	margin-left: 200px;
+    margin-top: 60px;
+    font-size:15pt;
+}
+
+mark{
+	background:#FF88C7;
+	color: #FF88C7;
+}
+
+mark:hover{
+	color:red;
+}
+
+
+p{
+	width: 10pt;
+	height:20px;
+	margin-top:-180px;
+
+
+}
+
+
+img.icon{
+	width: 70pt;
+	margin-left:200px;
+	margin-top:-20px;
+
+}
